@@ -37,7 +37,7 @@ FREE_PROVIDERS = {
         "env": "GEMINI_API_KEY",
         "key_page": "aistudio.google.com/apikey",
         "note": "Gemini Flash free tier",
-        "model": "gemini-2.0-flash",
+        "model": "gemini-3-flash-preview",
     },
     "mistral": {
         "name": "Mistral",

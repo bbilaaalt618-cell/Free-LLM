@@ -52,10 +52,10 @@ base_url = "https://generativelanguage.googleapis.com/v1beta/openai"
 api_key_env = "GEMINI_API_KEY"
 
 [models]
-planner  = "google/gemini-2.0-flash"
-drafter  = "google/gemini-2.0-flash"
-judge    = "google/gemini-2.0-flash"
-repairer = "google/gemini-2.0-flash"
+planner  = "google/gemini-3-flash-preview"
+drafter  = "google/gemini-3-flash-preview"
+judge    = "google/gemini-3-flash-preview"
+repairer = "google/gemini-3-flash-preview"
 ```
 
 Get your key at [aistudio.google.com/apikey](https://aistudio.google.com/apikey).
